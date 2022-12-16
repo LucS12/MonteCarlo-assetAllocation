@@ -16,4 +16,4 @@ portfolios while exhibiting the utility of the technique for portfolio optimizat
 ## Monte Carlo Portfolio Optimization:
 - Usage of Monte Carlo simulations to construct and optimize investment portfolios on minimum risk, maximum return, and maximum Sharpe ratio. The output is the following;
 
-<img src="https://user-images.githubusercontent.com/93154131/208175167-de9cbd4e-2703-4b6c-ad61-e756b348231d.png" width="700"/>
+<img src="https://user-images.githubusercontent.com/93154131/208175167-de9cbd4e-2703-4b6c-ad61-e756b348231d.png" width="500"/>
